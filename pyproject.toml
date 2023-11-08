@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "VBox"
+version = "0.1.0"
+description = ""
+authors = ["l02 <l8556@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+rich = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
